@@ -50,12 +50,6 @@ If I were to reply to your request, it might look like this:
 
 ### Metrics
 
-
-| Metric | Value |
-| -------- | -------- |
-| Row 1    | Data 1   |
-| Row 2    | Data 2   |
-
 | Metric | Value
 |--------|--------|
 Input prompt length (chars) | 75.0000

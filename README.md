@@ -122,13 +122,15 @@ Explain machine learning types
 Low_Bandwidth_AI_Learning_Assistant/
 ├── __pycache__/       # Python cache files
 ├── .env               # Environment variables (API keys)
+├── .devcontainer      # Dev Container
 ├── .gitignore         # Git ignore rules
+├── EXAMPLE1.md        # Example
+├── LICENSE            # License file
+├── README.md          # Project documentation
 ├── app.py             # Streamlit UI + integration
 ├── formatter.py       # Response cleaning & structuring
 ├── llm_api.py         # NVIDIA API interaction
 ├── optimizer.py       # Prompt optimization logic
-├── LICENSE            # License file
-├── README.md          # Project documentation
 └── requirements.txt   # Project dependencies
 ```
 
