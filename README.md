@@ -54,8 +54,8 @@ Streamlit UI
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/albyjacobmartin/llmminiproject.git
-cd llmminiproject
+git clone https://github.com/albyjacobmartinLow_Bandwidth_AI_Learning_Assistant.git
+cd Low_Bandwidth_AI_Learning_Assistant
 ```
 
 ### 2. Create virtual environment (recommended)
@@ -119,9 +119,9 @@ Explain machine learning types
 ## Project Structure
 
 ```
-LLMMINIPROJECT/
-├── __pycache__/        # Python cache files
-├── .env                # Environment variables (API keys)
+Low_Bandwidth_AI_Learning_Assistant/
+├── __pycache__/       # Python cache files
+├── .env               # Environment variables (API keys)
 ├── .gitignore         # Git ignore rules
 ├── app.py             # Streamlit UI + integration
 ├── formatter.py       # Response cleaning & structuring
