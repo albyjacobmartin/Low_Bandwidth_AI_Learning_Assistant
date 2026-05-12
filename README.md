@@ -1,6 +1,6 @@
 # Low-Bandwidth AI Learning Assistant
 
-**Live Demo:** https://albyllmminiproject.streamlit.app
+**Live Demo:** https://lbaila.streamlit.app/
 
 ## Overview
 
